@@ -25,7 +25,7 @@ After compilation, you can run the program with this command:
 
 ./Shapes
 
-Author
+## Author
 • Imran Khan M - GitHub Profile
 
 ## About the Author
